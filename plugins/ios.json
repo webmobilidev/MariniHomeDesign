@@ -7,17 +7,10 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
-        },
-        "phonegap-plugin-push": {
-            "SENDER_ID": "xxxxx",
+        "cordova-custom-config": {
             "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
-        },
-        "cordova-custom-config": {
             "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
         },
         "cordova-plugin-dialogs": {
@@ -32,7 +25,14 @@
         "cordova-plugin-statusbar": {
             "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
         },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
+        },
         "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxx",
             "PACKAGE_NAME": "com.mobilimarini.marinihomedesign"
         }
     },
